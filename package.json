@@ -1,0 +1,14 @@
+{
+  "name": "smart-sum",
+  "version": "1.0.0",
+  "description": "a librarie that does the sum of two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sum"
+  ],
+  "author": "Okba KHENISSI",
+  "license": "ISC"
+}
