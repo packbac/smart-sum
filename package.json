@@ -1,6 +1,6 @@
 {
   "name": "smart-sum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a librarie that does the sum of two numbers",
   "main": "index.js",
   "scripts": {
